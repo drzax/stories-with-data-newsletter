@@ -1,0 +1,22 @@
+{
+  "name": "stories-with-data-newsletter",
+  "version": "1.0.0",
+  "description": "A repo which holds content and publishing tools for the Stories with Data newsletter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drzax/stories-with-data-newsletter.git"
+  },
+  "author": "Simon Elvery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drzax/stories-with-data-newsletter/issues"
+  },
+  "homepage": "https://github.com/drzax/stories-with-data-newsletter",
+  "devDependencies": {
+    "mailchimp-api": "^2.0.7"
+  }
+}
